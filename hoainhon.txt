@@ -1,2 +1,3 @@
 hello
 B chỉnh sửa
+A đã chỉnh sửa
